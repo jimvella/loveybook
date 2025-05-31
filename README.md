@@ -1,5 +1,7 @@
 # Loveybook
 
+https://jimvella.github.io/loveybook/
+
 A web based PDF reader for children. Presents PDFs as a horizontally scrolling carousel for a fun way of turning the page.
 
 ## Developing
