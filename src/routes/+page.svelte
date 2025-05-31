@@ -138,7 +138,7 @@
   </div>
 {/if}
 
-<style>
+<style lang="css">
 :root {
     font-family:
       Arial,
@@ -178,12 +178,4 @@
     grid-column: labels;
     grid-row: auto;
   }
-  .myForm > input,
-  .myForm > textarea,
-  /* .myForm > button {
-    grid-column: controls;
-    grid-row: auto;
-    border: none;
-    padding: 1em;
-  } */
 </style>

@@ -21,6 +21,4 @@ To create a production version of your app:
 npm run build
 ```
 
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+Deployment is via Github pages. svelte.config.js has been configured to output the built static site to /docs for Github pages. Publishing is a matter of committing the changes to /docs and pushing to Github.
